@@ -4,4 +4,4 @@ My Recipies
 Nachos
 --
 
-  * The thing: More things.
+  * The thing.
